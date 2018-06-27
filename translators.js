@@ -1,5 +1,5 @@
 var key = 'CrFrGJ9Ljdp4BXk5Y1PbUc1rXkYoNqi7';
-var base_url = 'http://api.giphy.com/v1/gifs/search';
+var base_url = 'https://api.giphy.com/v1/gifs/search';
 var limit = 5;
 var rating = 'pg';
 
