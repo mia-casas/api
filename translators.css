@@ -140,6 +140,11 @@ html {
   h1{
     font-family: 'Barrio', cursive;
   }
-  body{
-    background-color: pink;
+ html{
+    background: linear-gradient( #FFC0CB 0%, 	#c0fff4 100%);
+    height: 300%;
+  }
+  iframe{
+  overflow: hidden;
+  height: 300px;
   }
